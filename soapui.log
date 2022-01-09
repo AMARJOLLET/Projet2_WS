@@ -1,0 +1,10 @@
+2021-12-12 18:38:15,662 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\formation\soapui-settings.xml]
+2021-12-12 18:38:16,476 INFO  [PluginManager] 0 plugins loaded in 1 ms
+2021-12-12 18:38:16,476 INFO  [DefaultSoapUICore] All plugins loaded
+2021-12-12 18:38:17,297 INFO  [WsdlProject] Loaded project from [file:/C:/Users/formation/Documents/SquashTA-1.10.0-RELEASE-workspace/libreplan/src/test/resources/Libreplan.xml]
+2021-12-12 18:38:17,338 INFO  [WsdlProject] Loaded project from [file:/C:/Users/formation/Documents/SquashTA-1.10.0-RELEASE-workspace/libreplan/src/test/resources/Libreplan.xml]
+2021-12-12 18:38:17,603 INFO  [log] Chargement des propriétés à partir du fichier .csv
+2021-12-12 18:38:18,292 INFO  [WsdlProject] Loaded project from [file:/C:/Users/formation/Documents/SquashTA-1.10.0-RELEASE-workspace/libreplan/src/test/resources/Libreplan.xml]
+2021-12-12 18:38:18,315 INFO  [log] Chargement des propriétés à partir du fichier .csv
+2021-12-12 18:38:18,368 INFO  [WsdlProject] Loaded project from [file:/C:/Users/formation/Documents/SquashTA-1.10.0-RELEASE-workspace/libreplan/src/test/resources/Libreplan.xml]
+2021-12-12 18:38:18,382 INFO  [log] Chargement des propriétés à partir du fichier .csv
