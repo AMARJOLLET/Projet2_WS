@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: autom.libreplansuccess.SoapTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.062 s <<< FAILURE! - in autom.libreplansuccess.SoapTest
+autom.libreplansuccess.SoapTest.testSoapUITestCase[TestCase_Resources]  Time elapsed: 0.085 s  <<< FAILURE!
+java.lang.AssertionError
+	at autom.libreplansuccess.SoapTest.testSoapUITestCase(SoapTest.java:61)
+

@@ -1,0 +1,15 @@
+PROJECT JDD;;;;;;;;;;;;;;;;;;;;;
+name1;name2;id1;id2;deadline1;deadline2;date1;date2;calendarname1;calendarname2;;;;;;;;;;;;
+project1;project2;ORDER1;ORDER2;2022-03-25;2022-05-17;2021-12-12;2022-01-01;project1;project2;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;
+WORKER JDD;;;;;;;;;;;;;;;;;;;;;
+wnif;wsurname;wfirst-name;code;CALname;;;;;;;;;;;;;;;;;
+1;wiewie;wiem;WORKER1;Default;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;
+MACHINE JDD;;;;;;;;;;;;;;;;;;;;;
+code;name;description;;;;;;;;;;;;;;;;;;;
+MACHINE0001;MaMachine;Cette machine est massive;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;
+CALENDAR JDD;;;;;;;;;;;;;;;;;;;;;
+CALcode;;;;;;;;;;;;;;;;;;;;;
+CALENDAR0001;;;;;;;;;;;;;;;;;;;;;
