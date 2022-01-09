@@ -1,0 +1,11 @@
+Jdd pour le folder;;;;;;
+nameFolder;description;position;;;;
+test folder;test description;1;;;;
+;;;;;;
+Jdd pour le document;;;;;;
+fileName;date;fileSize;title;pages;content;fileNameUpdate
+testdocument.txt;2021-12-11;1;titredudocumenttest;1;cid:365041248864;Jechangelenomcarcestcool.txt
+;;;;;;
+Jdd pour le search;;;;;;
+dateFrom;dateTo;expression;;;;
+2021-12-09;2021-12-11;*;;;;

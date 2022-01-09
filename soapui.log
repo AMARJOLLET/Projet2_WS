@@ -1,0 +1,10 @@
+2021-12-12 22:07:58,653 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\formation\soapui-settings.xml]
+2021-12-12 22:07:59,523 INFO  [PluginManager] 0 plugins loaded in 1 ms
+2021-12-12 22:07:59,523 INFO  [DefaultSoapUICore] All plugins loaded
+2021-12-12 22:08:00,459 INFO  [WsdlProject] Loaded project from [file:/C:/Users/formation/Documents/SquashTA-1.10.0-RELEASE-workspace/logicaldoc/src/test/resources/Logicaldoc-project.xml]
+2021-12-12 22:08:00,547 INFO  [WsdlProject] Loaded project from [file:/C:/Users/formation/Documents/SquashTA-1.10.0-RELEASE-workspace/logicaldoc/src/test/resources/Logicaldoc-project.xml]
+2021-12-12 22:08:00,842 INFO  [log] Chargement des propriétés à partir du fichier .csv
+2021-12-12 22:08:01,718 INFO  [WsdlProject] Loaded project from [file:/C:/Users/formation/Documents/SquashTA-1.10.0-RELEASE-workspace/logicaldoc/src/test/resources/Logicaldoc-project.xml]
+2021-12-12 22:08:01,739 INFO  [log] Chargement des propriétés à partir du fichier .csv
+2021-12-12 22:08:02,460 INFO  [WsdlProject] Loaded project from [file:/C:/Users/formation/Documents/SquashTA-1.10.0-RELEASE-workspace/logicaldoc/src/test/resources/Logicaldoc-project.xml]
+2021-12-12 22:08:02,482 INFO  [log] Chargement des propriétés à partir du fichier .csv
